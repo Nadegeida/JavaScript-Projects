@@ -1,0 +1,84 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    color: darkred;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 25px;
+}
+h3 {
+    font-family: Arial, sans-serif;
+    color: darkgoldenrod; 
+    margin-top: 10px;
+    margin-bottom: 12px; 
+}
+div {
+    font-family:Arial, sans-serif;
+    color: black;
+}
+#menuBG {
+    width:700px;
+    height: 500px;
+    
+    margin:20px auto;
+    padding: 20px 30px;
+    background-color:darkkhaki;
+}
+#menuBG::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+#frmMenu {
+    width:100%;
+    
+}
+menu {
+    width: 200px;
+    float: left;
+}
+
+.left {
+    width:200px;
+    height:200px;
+    float:left;
+    
+}
+
+.right {
+    width:200px;
+    height:200px;
+    float:right;
+}
+
+#showText {
+    width:300px;
+    height:190px;
+    margin:0px auto;
+    float:left;
+    padding-left: 60px;
+}
+
+#cart {
+    top: 0;margin:0px auto;
+    width:400px;
+    height: 200px;
+}
+#totalPrice {
+   width:200px;
+    height:auto;
+    
+    float:right;
+    padding-right: 20px;
+    text-align: right;
+}
+
+#btnOrder {
+    margin:30px 0px 30px 250px;
+    width:120px;
+    height:40px;
+    
+}
