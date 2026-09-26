@@ -3,7 +3,7 @@ These are some small projects and some improvement on my previous project I made
 # Projects
 * [Calculator](./JavaScript%20Projects/calculator.html/)
 * [Tic-Tac-Toe Game](./TicTacToe/TicTacToe.html/)
-* [Pizza Menu](./Pizza_Project/Pizza/)
+* [Pizza Menu](./Pizza_Project/Pizza.html/)
 * [One-Page Website](./One-Page%20Website/one_page_website.html)
 
 
