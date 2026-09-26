@@ -4,6 +4,8 @@ These are some small projects and some improvement on my previous project I made
 * [Calculator]
 * [Tic-Tac-Toe Game]
 * [Pizza Menu]
+* One-Page Website
+
 
 # Calculator
 A basic 4 function. Users can add, subtract, multiply and divide on a sleek web version of a calculator.
