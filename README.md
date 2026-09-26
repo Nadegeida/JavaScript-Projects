@@ -1,7 +1,7 @@
 # JavaScript Projects
 These are some small projects and some improvement on my previous project I made using JavaScript.
 # Projects
-* [Calculator](./JavaScript%20Projects/Calculator.html/)
+* [Calculator](./JavaScript%20Projects/calculator.html/)
 * [Tic-Tac-Toe Game](./TicTacToe/TicTacToe/)
 * [Pizza Menu](./Pizza_Project/Pizza/)
 * [One-Page Website](./One-Page%20Website/one_page_website.html)
