@@ -2,7 +2,7 @@
 These are some small projects and some improvement on my previous project I made using JavaScript.
 # Projects
 * [Calculator](https://Nadegeida.github.io/JavaScript-Projects/JavaScript%20Projects/calculator.html)
-* [Tic-Tac-Toe Game](https://Nadegeida.github.io/JavaScript-Projects/Tic%20Tac%20Toe/TicTacToe.html)
+* [Tic-Tac-Toe Game](./JavaScript-Projects/TicTacToe/))
 * [Pizza Menu](https://Nadegeida.github.io/JavaScript-Projects/Pizza_Project/Pizza.html)
 * [One-Page Website](https://Nadegeida.github.io/JavaScript-Projects/One-Page%20Website/one_page_website.html)
 
