@@ -1,9 +1,9 @@
 # JavaScript Projects
 These are some small projects and some improvement on my previous project I made using JavaScript.
 # Projects
-* [Calculator](https://nadegeida.github.io/JavaScript-Projects/JavaScript%20Projects/calculator.html/)
-* [Tic-Tac-Toe Game](https://nadegeida.github.io/JavaScript-Projects/TicTacToe/TicTacToe.html/)
-* [Pizza Menu](https://nadegeida.github.io/JavaScript-Projects/Pizza_Project/Pizza.html/)
+* [Calculator](https://nadegeida.github.io/JavaScript-Projects/JavaScript%20Projects/calculator.html)
+* [Tic-Tac-Toe Game](https://nadegeida.github.io/JavaScript-Projects/TicTacToe/TicTacToe.html)
+* [Pizza Menu](https://nadegeida.github.io/JavaScript-Projects/Pizza_Project/Pizza.html)
 * [One-Page Website](https://nadegeida.github.io/JavaScript-Projects/One-Page%20Website/one_page_website.html)
 
 
