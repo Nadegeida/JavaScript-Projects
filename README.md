@@ -1,10 +1,10 @@
 # JavaScript Projects
 These are some small projects and some improvement on my previous project I made using JavaScript.
 # Projects
-* [Calculator]https://github.com/Nadegeida/JavaScript-Projects/commit/269e91bcc59b4b4e063cd3ac7fadacd035b9982f#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R4
-* [Tic-Tac-Toe Game](https://Nadegeida.github.io/tictactoe)
-* [Pizza Menu](https://Nadegeida.github.io/pizza-menu)
-* [One-Page Website](https://Nadegeida.github.io/one-page-website)
+* [Calculator](https://Nadegeida.github.io/JavaScript-Projects/JavaScript%20Projects/calculator.html)
+* [Tic-Tac-Toe Game](https://Nadegeida.github.io/JavaScript-Projects/Tic%20Tac%20Toe/TicTacToe.html)
+* [Pizza Menu](https://Nadegeida.github.io/JavaScript-Projects/Pizza_Project/Pizza.html)
+* [One-Page Website](https://Nadegeida.github.io/JavaScript-Projects/One-Page%20Website/one_page_website.html)
 
 
 
